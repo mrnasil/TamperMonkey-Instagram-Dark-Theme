@@ -2,7 +2,7 @@
 // @name		TamperMonkey Instagram Dark Theme
 // @description		TamperMonkey Instagram Dark Theme is an userscript which aims to change the theme of the Instagram.com website, and make it a dark theme when the system is in dark mode.
 // @version		1.0
-// @license MIT
+// @license     MIT
 // @namespace		https://gist.github.com/mrnasil/b13edf3c43a96963525a33934634c1e7
 // @updateURL		https://gist.githubusercontent.com/mrnasil/b13edf3c43a96963525a33934634c1e7/raw/TamperMonkey-Instagram-Dark-Theme.js
 // @downloadURL		https://gist.githubusercontent.com/mrnasil/b13edf3c43a96963525a33934634c1e7/raw/TamperMonkey-Instagram-Dark-Theme.js
