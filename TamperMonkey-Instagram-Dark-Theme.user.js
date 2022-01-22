@@ -15,8 +15,6 @@
 // @icon	https://raw.githubusercontent.com/mrnasil/TamperMonkey-Instagram-Dark-Theme/main/instagram-icon.png
 // @grant	none
 // @run-at	document-start
-// @include http://*/*
-// @include https://*/*
 // ==/UserScript==
 /*
 =======================================================
