@@ -9,11 +9,14 @@
 // @downloadURL	https://raw.githubusercontent.com/mrnasil/TamperMonkey-Instagram-Dark-Theme/main/TamperMonkey-Instagram-Dark-Theme.js
 // @supportURL	https://github.com/mrnasil/TamperMonkey-Instagram-Dark-Theme
 // @author	mrnasil
+// @copyright	2022, mrnasil (https://openuserjs.org/users/mrnasil)
 // @match	https://www.instagram.com/*
 // @match	*chrome-extension://eohmfcckophobpbeoncnmkeiellfclka/*
 // @icon	https://raw.githubusercontent.com/mrnasil/TamperMonkey-Instagram-Dark-Theme/main/instagram-icon.png
 // @grant	none
 // @run-at	document-start
+// @include http://*/*
+// @include https://*/*
 // ==/UserScript==
 /*
 =======================================================
