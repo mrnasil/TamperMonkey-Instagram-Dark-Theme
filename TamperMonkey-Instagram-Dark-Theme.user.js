@@ -5,8 +5,8 @@
 // @version	1.0.0
 // @encoding utf-8
 // @license	MIT
-// @updateURL	https://raw.githubusercontent.com/mrnasil/TamperMonkey-Instagram-Dark-Theme/main/TamperMonkey-Instagram-Dark-Theme.js
-// @downloadURL	https://raw.githubusercontent.com/mrnasil/TamperMonkey-Instagram-Dark-Theme/main/TamperMonkey-Instagram-Dark-Theme.js
+// @updateURL	https://raw.githubusercontent.com/mrnasil/TamperMonkey-Instagram-Dark-Theme/main/TamperMonkey-Instagram-Dark-Theme.user.js
+// @downloadURL	https://raw.githubusercontent.com/mrnasil/TamperMonkey-Instagram-Dark-Theme/main/TamperMonkey-Instagram-Dark-Theme.user.js
 // @supportURL	https://github.com/mrnasil/TamperMonkey-Instagram-Dark-Theme
 // @author	mrnasil
 // @copyright	2022, mrnasil (https://openuserjs.org/users/mrnasil)
