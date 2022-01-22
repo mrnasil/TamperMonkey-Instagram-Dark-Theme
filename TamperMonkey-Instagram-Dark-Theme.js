@@ -10,7 +10,7 @@
 // @author	mrnasil
 // @match	https://www.instagram.com/*
 // @match	*chrome-extension://eohmfcckophobpbeoncnmkeiellfclka/*
-// @icon	data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @icon	https://raw.githubusercontent.com/mrnasil/TamperMonkey-Instagram-Dark-Theme/main/instagram-icon.png
 // @grant	none
 // @run-at	document-start
 // ==/UserScript==
